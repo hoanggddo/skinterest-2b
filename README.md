@@ -28,6 +28,8 @@
 ---
 # 👩🏽‍💻 Setup & Installation
 
+Access it online through https://skinterest-2b.streamlit.app/ or on your own local machine.
+
 ## Prerequisites
 - **Python:** 3.9–3.11  
 - **(Recommended)** GPU runtime for training (Colab T4/A100 or local NVIDIA)  
