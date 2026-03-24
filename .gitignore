@@ -32,7 +32,6 @@ data/cache/
 *.ckpt.*
 *.pb
 *.onnx
-*.pth
 *.pt
 *.npz
 
@@ -66,7 +65,6 @@ __pycache__/
 *.tfrecord
 *.onnx
 *.pt
-*.pth
 logs/
 wandb/
 
